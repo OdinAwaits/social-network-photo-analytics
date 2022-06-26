@@ -1,2 +1,3 @@
 # social-network-photo-analytics
-fetch profile pics in given region and send them to ML for analysis
+Python script written in a simplistic imperative style, yet, it does it's job.
+Can scrape through facebook, instagram and/or linkedIn on your choice.
